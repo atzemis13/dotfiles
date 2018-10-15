@@ -1,0 +1,10 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+#	name = atzemis13
+#	email = charlie@remesh.org
+[user]
+	name = atzemis13
+	email = charlie@remesh.org
+[submodule]
+	recurse = true
